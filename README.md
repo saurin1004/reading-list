@@ -13,7 +13,7 @@ The goals of this list are:
 
 ## Books I've Read
 
-#### [Good to Great](https://www.goodreads.com/book/show/76865.Good_to_Great)
+#### Good to Great
 
 Jim Collins
 
@@ -23,10 +23,18 @@ Jim Collins
 
 > Full notes [here](https://github.com/saurin1004/reading-list)
 
+#### Shrimad Bhagavad Gita
+
+> Adhyaya 1
+> 
+> Adhyaya 2
+
+> Full notes [here](https://github.com/saurin1004/reading-list)
+
 
 
 __________________________________
 
 ## To Read
 
-##### [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one)
+##### Zero to One: Notes on Startups, or How to Build the Future
