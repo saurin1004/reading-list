@@ -13,13 +13,36 @@ The goals of this list are:
 
 ## Books I've Read
 
-#### Good to Great
+## 1. Good to Great
 
-Jim Collins
+### by Jim Collins
 
-> Pt. 1.
-> 
-> Pt. 2.
+#### Abbreviations:
+> G2G - Good to Great
+
+#### CHAPTER 1 - GOOD IS THE ENEMY OF GREAT
+**Observations of study:**
+- 10/11 great leaders come from within the organization
+- Compensation strength unrelated to performance
+- Strategy not a factor in G2G (both spend good time on strategies)
+- What to do += What not to do + What to stop doing
+- Tech. does not drive/ignite G2G transformation
+- Merger does not ignite G2G transformation
+- Less/Barely attention to change/motivate - under right cond. problems like commitment and motivation melt away
+- Revolutionary results without revolutionary process
+- G2G unrelated to industry/circumstance. Largely conscious choice
+
+**Overview of framework: Disciplined people, Disciplined thought, Disciplined action**
+
+- Level 5 Leadership: Low profile, self effacing, quite, reserved, shy, humility + professional will = G2G leader
+- First Who: Right people are most important assets
+- Confront the Brutal Facts (Yet Never Lose Faith): Stockdate Paradox - maintain unwavering faith that I can and will prevail in the end irrespective of difficulty, AND have discipline to face most brutal facts of current reality
+- The Hedgehog Concept (Simplicity withing the Three Circles): G2G requires one to trancende curse of competence. If I cannot be best at my core business, then my core business absolutely cannot be basis of a great company - hence needs to be replaced
+- A Culture of Discipline: Culture of Discipline + Ethic of entrepreneurship = Great Performance
+- Technologu Accelerators: Tech never primary ignition - yet pioneer of application of carefully selected techs
+- The Flywheel and the Doom Loop: G2G process - relentlessly pushing a GIANT heavy flywheel in 1 direction until breakthrough
+- From G2G to Built to Last: G2G concepts -> Sustained Great Results + Built to Last Concepts -> Enduring Great Company
+
 
 > Full notes [here](https://github.com/saurin1004/reading-list)
 
