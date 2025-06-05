@@ -46,7 +46,7 @@ The goals of this list are:
 
 > Full notes [here](https://github.com/saurin1004/reading-list)
 
-#### Shrimad Bhagavad Gita
+## 2. Shrimad Bhagavad Gita
 
 > Adhyaya 1
 > 
@@ -54,6 +54,9 @@ The goals of this list are:
 
 > Full notes [here](https://github.com/saurin1004/reading-list)
 
+## 3. Atomic Habits
+
+### by James Clear
 
 
 __________________________________
