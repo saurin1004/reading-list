@@ -1,7 +1,7 @@
 ## Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 > by James Clear
 > 
-> Page 54/256
+> Page 58/256
 
 ## Good to Great: Why Some Companies Make the Leap... and Others Don't 
 > by Jim Collins
